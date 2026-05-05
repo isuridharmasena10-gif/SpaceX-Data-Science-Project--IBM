@@ -29,14 +29,6 @@ This project was completed in several structured stages:
 ## 🛠️ Tools & Technologies Used
 *   **Languages:** Python (Pandas, NumPy, Scikit-learn)
 *   **Visualizations:** Matplotlib, Seaborn, Plotly Dash
-  
-## 📁 File Structure
-*   `SpaceX_Data_Collection_API.ipynb`: Collecting data via API.
-*   `SpaceX_Web_Scraping.ipynb`: Scraping data from Wikipedia.
-*   `SpaceX_Data_Wrangling.ipynb`: Data cleaning and preprocessing.
-*   `SpaceX_EDA_SQL.ipynb`: Analyzing data using SQL queries.
-*   **`spacex_dash_app.py`**: The interactive Plotly Dash application.
-*   `SpaceX_Machine_Learning_Prediction.ipynb`: Building and testing ML models.
 
 ---
 *This project was developed as the final **Capstone Project** for the **IBM Data Science Professional Certificate**.*
